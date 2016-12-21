@@ -5,7 +5,7 @@ codename: m1
 downloadfolder: m1
 supportstatus: Current
 maintainer: Czarsuperstar@gmail.coms
-support thread on XDA:http://forum.xda-developers.com/android/development/twrp-m1-lg-k7-t3462130
+support thread on XDA: http://forum.xda-developers.com/android/development/twrp-m1-lg-k7-t3462130
 oem: LG
 devicetree: https://github.com/TeamWin/android_device_lge_m1
 ddof: "/dev/block/bootdevice/by-name/recovery"
